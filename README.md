@@ -1,7 +1,9 @@
 # ClassProjects
 Projects completed by myself for SNHU classes.
+-CornerGrocerChadaApp
+-Sprint Review and Retrospective
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 For the project CornerGrocerChadaApp" I was tasked with doing was to create a program that took inventory generated throughout the day and analyzed how many items were purchased. The item data is presented in a text format and my specific task was to organize that data by allowing a user to see how many times total that item was purchased. They could do this with a search for the item specifically, by printing all items with numerical representations of the items next to the names, or by printing a histogram of all items and asterisks representing the number of purchases made throughout the day.    
 
 What I feel I did particularly well when developing this code was user input validation as well as error handling. I made it so there was very little room for error when utilizing the menu system in the main function and if something did go wrong you would know where it went wrong by the error code thrown.  
@@ -14,5 +16,15 @@ I learned a lot from this project, and a skill I feel will transfer well to othe
 
 Overall, I made this program maintainable by developing a class that handled the required functionality of the application. I made it readable by adding inline comments on the important parts of the code itself as well as using conventional namespaces for variables and obvious names for functions that tell you exactly what they do. The program itself is also adaptable as the class system allows me to derive other classes from it, include its contents in other functions, or improve on the functions that work alongside it such as the menu class improvements I mentioned earlier
 
+-----------------------------------------------------------------------------------------------------------------------------
 
-For the Project Sprint Review and Retrospective, 
+The Sprint Review and Retrospective, I was to write a short essay on a comprehensive examination of the application of Scrum-agile methodology within a project at SNHU, focusing on the roles of Scrum Master, Product Owner, Tester, and Developers. It highlights how each role contributes to project success through facilitating collaboration, ensuring alignment with stakeholder needs, maintaining quality, and fostering adaptability. The essay underscores the importance of effective communication and organizational tools like Daily Scrums and Sprint Reviews in achieving project objectives. While acknowledging the benefits of the Scrum-agile approach, it also discusses challenges such as consistent prioritization and adaptation to changing requirements. Ultimately, it concludes by emphasizing the importance of considering project-specific factors when determining the suitability of Scrum-agile methodology. After of which I was given three questions to answer here: 
+
+1) How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+2) How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?   
+3) What does it mean to be a good team member in software development?
+
+In response to these questions:
+I would say that interpreting user needs and translating them into actionable features is fundamental in program development. Utilizing techniques like crafting user stories enables developers and testers to understand user requirements from their perspective, creating clearer communication channels and alignment of development efforts on all team member's parts. User stories serve as a roadmap/checklist, prioritizing features based on user value and ensuring that development efforts are focused on delivering tangible progress. By incorporating agile methodologies like Scrum into future development work, developers can enhance flexibility, collaboration, and responsiveness to changing requirements. These methodologies emphasize iterative development, frequent feedback loops, and adaptive planning, allowing teams to break down work into manageable tasks and prioritize features based on user feedback. Practices such as daily stand-up meetings, sprint reviews, and retrospectives foster team collaboration, communication, and accountability, leading to improved project outcomes.
+
+Being a good team member in software development actually involves team collaboration, communication, and accountability, which is why learning the principles of Agile and methodology such as Scrum fosters greater teamwork. Actively listening to teammates and stakeholders, providing constructive feedback, and expressing ideas clearly contribute to a positive team dynamic. Collaboration helps promote creativity, innovation, and shared ownership of project goals, while adaptability enables teams to respond effectively to evolving requirements and challenges. Taking initiative, meeting commitments, and contributing positively to team morale further enhance effectiveness as a team member. Overall, supportive, respectful, and committed team members cultivate a productive and cohesive software development environment, driving success in project delivery.
