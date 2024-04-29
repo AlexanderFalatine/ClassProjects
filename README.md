@@ -2,7 +2,7 @@
 Projects completed by myself for SNHU classes.
 
 
-The project I was tasked with doing was to create a program that took inventory generated throughout the day and analyzed how many items were purchased. The item data is presented in a text format and my specific task was to organize that data by allowing a user to see how many times total that item was purchased. They could do this with a search for the item specifically, by printing all items with numerical representations of the items next to the names, or by printing a histogram of all items and asterisks representing the number of purchases made throughout the day.    
+For the project CornerGrocerChadaApp" I was tasked with doing was to create a program that took inventory generated throughout the day and analyzed how many items were purchased. The item data is presented in a text format and my specific task was to organize that data by allowing a user to see how many times total that item was purchased. They could do this with a search for the item specifically, by printing all items with numerical representations of the items next to the names, or by printing a histogram of all items and asterisks representing the number of purchases made throughout the day.    
 
 What I feel I did particularly well when developing this code was user input validation as well as error handling. I made it so there was very little room for error when utilizing the menu system in the main function and if something did go wrong you would know where it went wrong by the error code thrown.  
 
@@ -13,3 +13,6 @@ The most difficult aspect of this project for me was file manipulation. When I f
 I learned a lot from this project, and a skill I feel will transfer well to other projects is the ability to handle errors by breaking them down into smaller pieces and finding out the root of the error instead of running code, fixing random spots, and running code again. The process of debugging that I found out from my resources will be important for how I tackle issues in the future.  
 
 Overall, I made this program maintainable by developing a class that handled the required functionality of the application. I made it readable by adding inline comments on the important parts of the code itself as well as using conventional namespaces for variables and obvious names for functions that tell you exactly what they do. The program itself is also adaptable as the class system allows me to derive other classes from it, include its contents in other functions, or improve on the functions that work alongside it such as the menu class improvements I mentioned earlier
+
+
+For the Project Sprint Review and Retrospective, 
